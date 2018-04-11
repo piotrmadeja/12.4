@@ -1,6 +1,6 @@
 
 
-var url = 'http://api.icndb.com/jokes/random';  //adres do dowcipu
+var url = 'https://api.icndb.com/jokes/random';  //adres do dowcipu
 
 var button = document.getElementById('get-joke'); //pobiera element po ID
 button.addEventListener('click', function(){  //dodaje listener do buttona
